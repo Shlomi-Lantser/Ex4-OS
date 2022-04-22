@@ -33,10 +33,10 @@ Files on this project :
 
 # Client commands:
 
-`PUSH` - Pushing a value into the stack (string value).
-`POP` - Pops the top value of the stack and returns it.
-`TOP` - Returns the top value of the stack.
-`EXIT` - To disconnect the server.
+* `PUSH` - Pushing a value into the stack (string value).
+* `POP` - Pops the top value of the stack and returns it.
+* `TOP` - Returns the top value of the stack.
+* `EXIT` - To disconnect the server.
 
                  
 ## Running guide:
