@@ -16,7 +16,7 @@ Every stack change is implemented with our own malloc that using sbrk().
 ![diagramServer](https://user-images.githubusercontent.com/92504985/164740129-20ea15cc-26ea-4e4b-ba84-7d2b8ea435e1.png)
 
 
-As we can see the clients connecting to the server and the server stores the stack , evey client sending commands to changing the stack and the server responding when succeed / not succeed to execute the command.
+As we can see the clients connecting to the server and the server stores the stack , evey client sending commands to change the stack and the server responding when succeed / not succeed to execute the command.
 
 
 Files on this project :
