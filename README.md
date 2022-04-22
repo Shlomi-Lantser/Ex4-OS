@@ -1,5 +1,5 @@
 # Ex4-OS
-Server stack multithreading TCP communication and malloc &amp; free implementation C++.
+Server stack multithreading TCP communication , malloc , calloc & free implementation C++.
 
 ## Or Cohen & Shlomi Lantser.
 
