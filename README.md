@@ -29,8 +29,6 @@ Files on this project :
 
 * **malloc** - Our implement for malloc & calloc & free to manipulate the heap.
 
-* **test** - Tesing all our methods and functions.
-
 # Client commands:
 
 * `PUSH [value]` - Pushing a value into the stack (string value).
