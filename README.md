@@ -5,7 +5,7 @@ Server stack multithreading TCP communication , malloc , calloc & free implement
 
 # Description
 
-In this project we implemented a stack of string to put it on our server , the server supports multithread by POSIX mutex.
+In this project we implemented a stack of strings to put it on our server , the server supports multithread by POSIX mutex.
 the server store the stack that we implemented and every client has it own thread.
 The client sending command to the server that changing the stack to all the other clients , the mutex inspectoring that every method of the stack 
 will be preformed by only one thread (client).
